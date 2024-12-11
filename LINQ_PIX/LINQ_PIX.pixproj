@@ -13,10 +13,6 @@
     </ProjectFileItem>
     <ProjectFileItem z:Id="i4">
       <IsMain>false</IsMain>
-      <Path>GenerateWorDT.pix</Path>
-    </ProjectFileItem>
-    <ProjectFileItem z:Id="i5">
-      <IsMain>false</IsMain>
       <Path>MergeDT.pix</Path>
     </ProjectFileItem>
   </Files>

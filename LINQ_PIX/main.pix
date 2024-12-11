@@ -13,7 +13,7 @@
           <PropertyValue z:Id="i4">
             <PropertyName>DirPath</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>@"C:\Users\SBZalesky\Documents\Линки\Исходники"</_expression>
+            <_expression>@"Files"</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
@@ -73,7 +73,7 @@
           <PropertyValue z:Id="i10">
             <PropertyName>DirPath</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>@"C:\Users\SBZalesky\Documents\Линки\Исходники\КопииPIX"</_expression>
+            <_expression>@"Files\Копии\"</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
@@ -103,7 +103,7 @@
           <PropertyValue z:Id="i13">
             <PropertyName>Value</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>list_noSort.Count()</_expression>
+            <_expression>list_sort.Count()</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
@@ -159,6 +159,28 @@
                 <Text>Создать копии файлов</Text>
                 <_activityFullName>BR.Core.Base.ExecuteScript</_activityFullName>
               </AbstractStep>
+              <AbstractStep z:Id="i20" i:type="ExecutedStep">
+                <Childs />
+                <Id>24e9b311-993d-4f78-9328-983d518e5728</Id>
+                <Parent z:Ref="i16" />
+                <PropertyValues>
+                  <PropertyValue z:Id="i21">
+                    <PropertyName>FilePath</PropertyName>
+                    <_dataType>Expression</_dataType>
+                    <_expression>@"MergeDT.pix"</_expression>
+                    <_screenShotBase64 i:nil="true" />
+                    <_value i:nil="true" />
+                    <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                  </PropertyValue>
+                </PropertyValues>
+                <SelectedOptionId i:nil="true" />
+                <AutoCloseMode>None</AutoCloseMode>
+                <EnableStatus>true</EnableStatus>
+                <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                <RetryCount>-1</RetryCount>
+                <Text></Text>
+                <_activityFullName>BR.Core.Base.ExecuteScript</_activityFullName>
+              </AbstractStep>
             </Childs>
             <Id>c8b73283-f8f6-4669-b0f8-c5a6312a5377</Id>
             <Parent z:Ref="i15" />
@@ -171,7 +193,7 @@
             <Text></Text>
             <_activityFullName>BR.Core.Base.IfTrue</_activityFullName>
           </AbstractStep>
-          <AbstractStep z:Id="i20" i:type="ExecutedStep">
+          <AbstractStep z:Id="i22" i:type="ExecutedStep">
             <Childs />
             <Id>a070899b-b5ce-48a1-a6b6-9eb53e36e4ea</Id>
             <Parent z:Ref="i15" />
@@ -188,7 +210,7 @@
         <Id>42f12f24-f0e8-4a16-bf6b-08b5b0ca43f5</Id>
         <Parent z:Ref="i2" />
         <PropertyValues>
-          <PropertyValue z:Id="i21">
+          <PropertyValue z:Id="i23">
             <PropertyName>Condition</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>int_sortCount &lt; int_noSortCount -1</_expression>

@@ -13,7 +13,7 @@
           <PropertyValue z:Id="i4">
             <PropertyName>DirPath</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>@"C:\Users\SBZalesky\Documents\Линки\Исходники"</_expression>
+            <_expression>@"Files"</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
@@ -260,7 +260,7 @@
                       <PropertyValue z:Id="i32">
                         <PropertyName>FileName</PropertyName>
                         <_dataType>Expression</_dataType>
-                        <_expression>@"C:\Users\SBZalesky\Documents\Линки\Исходники\КопииPIX\"+workFileName+"_копия.xlsx"</_expression>
+                        <_expression>@"Files\Копии\"+workFileName+"_копия.xlsx"</_expression>
                         <_screenShotBase64 i:nil="true" />
                         <_value i:nil="true" />
                         <_xpathSettings xmlns:d13p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />

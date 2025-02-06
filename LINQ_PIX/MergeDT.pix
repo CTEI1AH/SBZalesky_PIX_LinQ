@@ -414,7 +414,7 @@
           <PropertyValue z:Id="i39">
             <PropertyName>FileName</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>@"Files\Копии\Итог\Итог.xlsx"</_expression>
+            <_expression>@"Files\Итог\Итог.xlsx"</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />

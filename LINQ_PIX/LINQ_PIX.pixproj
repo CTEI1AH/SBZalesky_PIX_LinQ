@@ -17,71 +17,71 @@
     </ProjectFileItem>
     <ProjectFileItem z:Id="i5">
       <IsMain>false</IsMain>
-      <Path>Files\Отчет27.07.2021.xlsx</Path>
+      <Path>Files\Исходные\Отчет27.07.2021.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i6">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели0.xlsx</Path>
+      <Path>Files\Исходные\Слушатели0.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i7">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели1.xlsx</Path>
+      <Path>Files\Исходные\Слушатели1.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i8">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели2.xlsx</Path>
+      <Path>Files\Исходные\Слушатели2.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i9">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели3.xlsx</Path>
+      <Path>Files\Исходные\Слушатели3.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i10">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели4.xlsx</Path>
+      <Path>Files\Исходные\Слушатели4.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i11">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели5.xlsx</Path>
+      <Path>Files\Исходные\Слушатели5.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i12">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели6.xlsx</Path>
+      <Path>Files\Исходные\Слушатели6.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i13">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели7.xlsx</Path>
+      <Path>Files\Исходные\Слушатели7.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i14">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели8.xlsx</Path>
+      <Path>Files\Исходные\Слушатели8.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i15">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели9.xlsx</Path>
+      <Path>Files\Исходные\Слушатели9.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i16">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели10.xlsx</Path>
+      <Path>Files\Исходные\Слушатели10.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i17">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели11.xlsx</Path>
+      <Path>Files\Исходные\Слушатели11.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i18">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели12.xlsx</Path>
+      <Path>Files\Исходные\Слушатели12.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i19">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели13.xlsx</Path>
+      <Path>Files\Исходные\Слушатели13.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i20">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели14.xlsx</Path>
+      <Path>Files\Исходные\Слушатели14.xlsx</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i21">
       <IsMain>false</IsMain>
-      <Path>Files\Слушатели15.xlsx</Path>
+      <Path>Files\Исходные\Слушатели15.xlsx</Path>
     </ProjectFileItem>
   </Files>
   <MasterUploadId i:nil="true" />
